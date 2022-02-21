@@ -190,4 +190,4 @@ def main():
 
 while(loopCode):
     main();
-    time.sleep(30);
+    time.sleep(45);
