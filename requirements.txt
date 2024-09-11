@@ -1,1 +1,6 @@
 pyscreenshot
+Pillow
+pyautogui
+tensorflow
+numpy
+opencv-python

@@ -1,8 +1,10 @@
-# FNAF 1 420 Mode Automation Bot
+# FNAF 1 4/20 Mode Automation Bot
 
 ## Project Overview
 
 This project is a bot designed to automate gameplay in "Five Nights at Freddy's" (FNAF) 1, specifically for the 4/20 mode challenge. The bot uses Python and libraries like `pyautogui`, `pygetwindow`, and `tensorflow` to interact with the game screen, automate mouse movements, and perform actions based on pixel recognition.
+
+See it in action [here](https://youtu.be/wX2QkcvJXC0).
 
 ## Features
 

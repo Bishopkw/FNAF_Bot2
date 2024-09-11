@@ -1,4 +1,3 @@
-from re import T
 import pyautogui
 import pygetwindow as gw
 import time
